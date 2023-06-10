@@ -1,2 +1,2 @@
 # Flaskweb
-practise_for_flask
+chatbot_for_flask
